@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: cornsilk;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+.img-responsive{
+    max-width: 100%;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.abo_code{
+    text-align: center;
+    color: white;
+}
+.parads_code{
+    font-size: 24px;
+}
+.container{
+    background-color: crimson;
+    
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 80%;
+    position: relative;
+    
+}
+.donate_code{
+    border: 2px solid rebeccapurple;
+    
+    text-align: center;
+    border-radius: 1rem;
+    left: 500px;
+}
+.nav-item:hover{
+    background-color: tomato;
+    
+}
+.navbar-brand:hover{
+    background-color: tomato;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+#block{
+    text-align: left;
+}
+#block2{
+    display: block;
+    text-align: center;
+    margin-top: 2rem;
+    border-radius: 3rem;
+    
+}
+#block h1{
+    top: 50%;
+    text-align: center;
+    
+    
+}
+
+#block3{
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.maths{
+    width: 80%;
+    border-radius: 0.5rem;
+    padding: 0.7rem;
+    background-color: wheat;
+}
+.maths:hover{
+    background-color: thistle;
+}
+.buttn1_code{
+    cursor: pointer;
+    
+}
+.butn{
+   margin-bottom: 2rem;
+   width: 50%;
+   padding: 0.4rem;
+   font-size: 22px;
+   margin: 1rem;
+   background-color: royalblue;
+   cursor: pointer;
+
+}
+.butn:hover{
+    background-color: sienna;
+}
+.image_code{
+    max-width: 1400px;
+    margin: auto;
+    background: white;
+    overflow: auto;
+    margin-left: 6rem;
+    background-color: aquamarine;
+}
+.image1_code{
+    margin: 3rem;
+    border: 1px solid pink;
+    float: left;
+    width: 350px;
+    border: none;    
+}
+.footad{
+    background-color: saddlebrown;
+    padding: 2rem;
+    
+}
+.head5{
+    text-align: right;
+    
+}
+.about_code{
+   background-color: salmon;
+   margin: 5px;
+   border-radius: 1rem;
+}
+.abk_code{
+    color: brown;
+    text-align: center;
+    background-color: chartreuse;
+    padding: 0.5rem;
+}
+.heads_code{
+    margin-top: 2rem;
+}
+.par_code{
+    margin: 3rem;
+    margin-top: 3rem;
+    border-style: double;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+   font-size: 22px;
+}
+.parads_code{
+    color:brown;
+}
+.hass_code{
+    background-image: url('photo/ngo.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    position: relative;
+   
+}
+.hash_code{
+    position: relative;
+    top: 30%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+#block{
+   
+}
+.hash_code h1{
+    text-align: center;
+}
+.hash_code p{
+    color:brown;
+}
+.buttn1_code{
+    width: 30%;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: crimson;
+    font-weight: 1000;
+    color: white;
+    font-size: 22px;
+}
+.footad p{
+    color: white;
+}
+.pk{
+    background-color: aqua;
+}
+.pk h1{
+    text-align: center;
+}
+.pk form{
+    margin: 1rem;
+    padding: .5rem;
+}
+.every{
+    padding: .5rem;
+    margin: .5rem;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    width: 300px;
+    border-radius: 1rem;
+}
+.name{
+    border-radius: 1rem;
+    padding: .5rem;
+    width: 60%;
+}
